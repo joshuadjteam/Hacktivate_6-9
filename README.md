@@ -31,11 +31,9 @@ D) I AM NOT RESPONSIBLE FOR ANY DAMAGES!!!
 
 1d. Jailbreak!
 
-1e. Installing dependencies/files
+1e. Deleting setup
 
-1f. Deleting setup
-
-1g. After results and questions!
+1f. After results and questions!
 
 ## Getting started - 1a. Device supported
 Prerequisites are as mentioned
@@ -59,7 +57,7 @@ At the screen of dead end
 - Activation Information Invalid
 and the list goes on but I'm too lazy to type it all 🙂
 
-## Temp bypass and Software needed 
+## Getting started - 1c. Temp bypass and Software needed 
 You will need
 - 3uTools
 - SikeActivation or SecRiOS v1.0 bwta 2023
@@ -67,6 +65,30 @@ You will need
 - A Windows computer (Sorry Mac and Linux!)
 - iTunes v12+
 - Your Lightning/30 pin charger (With File Transfer)
+
+Now, lets run SikeActivation and select option 1. Set up your device as is however you have around 30 minutes to 2 hours. 
+
+## Getting started - 1d. Jailbreak!
+
+Get 3uTools or your own jailbreak and select Jailbreak, then follow whatever your jailbreak says.
+
+Update Cydia. Do a full upgrade and same with the repositiories.
+
+## Getting started - 1e. Deleting Setup
+
+Once added, look for iFile. Install that and open iFile.
+
+Then go to the "/" directory, then click Applications then look for setup.app and swiping on the folder horizontally.
+
+Then go to "/var/mobile/Library/Preferences/com.apple.purplebuddy.plist" and set "SetupDone" and "SetupFinishedAllSteps" to true
+
+## Getting started - 1f. After results
+
+Reboot your iDevice. Remember, to sideload an app, you need SikeActivation for the system to allow applications through 3uTools. 
+
+Safe Jailbreaking my mates!!
+
+By DarCodr - @darcodr, darcodr@att.net, darcodr@darcodr.qzz.io, +15852863299 (TEXT)
 
 
 
